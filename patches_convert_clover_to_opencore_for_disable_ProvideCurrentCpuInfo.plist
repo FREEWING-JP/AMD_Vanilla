@@ -82,7 +82,7 @@
 					<key>ReplaceMask</key>
 					<data>////////</data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>21.0.0</string>
 					<key>Arch</key>
@@ -112,7 +112,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -172,7 +172,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>20.4.0</string>
 					<key>Arch</key>
@@ -202,7 +202,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>21.0.0</string>
 					<key>Arch</key>
@@ -262,7 +262,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -292,7 +292,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -303,6 +303,36 @@
 					<string></string>
 					<key>Replace</key>
 					<data>uB0AAIBEifFEiQ==</data>
+					<key>Skip</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
+					<key>Base</key>
+					<string></string>
+					<key>Comment</key>
+					<string>algrey - _cpuid_set_generic_info - Disable check to allow leaf7 - 10.13/10.14/10.15/11.0/12.0</string>
+					<key>Count</key>
+					<integer>1</integer>
+					<key>Enabled</key>
+					<true/>
+					<key>Find</key>
+					<data>ADoPgg==</data>
+					<key>Identifier</key>
+					<string>kernel</string>
+					<key>Limit</key>
+					<integer>0</integer>
+					<key>Mask</key>
+					<data></data>
+					<key>MaxKernel</key>
+					<string>22.99.99</string>
+					<key>MinKernel</key>
+					<string>17.0.0</string>
+					<key>Replace</key>
+					<data>AAAPgg==</data>
+					<key>ReplaceMask</key>
+					<data></data>
 					<key>Skip</key>
 					<integer>0</integer>
 				</dict>
@@ -322,7 +352,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -352,7 +382,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -382,7 +412,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -412,7 +442,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -472,7 +502,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -502,7 +532,7 @@
 					<key>ReplaceMask</key>
 					<data></data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -530,7 +560,7 @@
 					<key>Mask</key>
 					<data>////////D////////////////w==</data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
@@ -558,7 +588,7 @@
 					<key>Mask</key>
 					<data>////////D////////////////w==</data>
 					<key>MaxKernel</key>
-					<string>21.99.99</string>
+					<string>22.99.99</string>
 					<key>MinKernel</key>
 					<string>17.0.0</string>
 					<key>Arch</key>
